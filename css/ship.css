@@ -1,0 +1,22 @@
+.wrapper{
+    background: url(../assets/char/anime_tower02.gif), url(../assets/char/anime_footer04.gif), url(../assets/char/anime_sky06.gif) ,url(../assets/char/sky.gif), url(../assets/char/anime_footer05.gif), url(../assets/char/anime_sky03.gif), url(../assets/ship/ship.png);
+    background-position: bottom 8.7vw left 23vw, bottom right 20vw, top 40px left, top 60px right, right 0% bottom 0%, bottom 8vw left 55vw, left 0% bottom 0%;
+    background-size: 5.3% auto, 11% auto, 6% auto, 3.5% auto, 5.5% auto, 3% auto, 55% auto;
+    background-repeat:no-repeat;
+    background-attachment:scroll;
+    image-rendering: pixelated;
+    height: 100%;
+}
+
+
+
+
+#warrior {
+    border: 0px;
+    position: absolute;
+    bottom: 20vw;
+    background: transparent;
+
+}
+
+
