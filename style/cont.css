@@ -1,0 +1,32 @@
+div.ranking-board {
+    background-image: url(../assets/images/ranks/bg_talk.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    position: absolute;
+    top: 25vw;
+    right: 15vw;
+    width: 30%;
+    height: 25%;
+    image-rendering: pixelated;
+}
+
+
+#rank1, #rank2, #rank3 {
+    position: absolute;
+    bottom: 22%;
+    width: 9%;
+    height: auto;
+}
+
+#rank1 {
+    right: 45%;
+}
+
+#rank2 {
+    right: 25%;
+}
+
+#rank3 {
+    right: 65%;
+}
