@@ -7,10 +7,3 @@
     image-rendering: pixelated;
     height: 100%;
 }
-
-#warrior {
-    border: 0px;
-    position: absolute;
-    bottom: 20vw;
-    background: transparent;
-}
